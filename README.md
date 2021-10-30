@@ -1,4 +1,4 @@
-# EDA on Netflix Movies and TV Shows dataset
+# Bigmart EDA
 
 ![Analysis](images/analysis.jpeg "Analysis")
 
